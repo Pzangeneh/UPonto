@@ -1,4 +1,11 @@
-# Project: Project Management ontology
+# Project: Uniform Project Ontology
+
+## Website presentation
+http://uponto.link/
+
+## Namsespace
+Prefix: "uponto" ;
+Namespace URI: "http://www.uponto.link/ontology/#"
 
 ## Version control
 The latest version is available from w3id.org/project#. This points to the master branch of this repository.
