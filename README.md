@@ -1,9 +1,9 @@
 # Project: Uniform Project Ontology
 
-## Website presentation
+## Online presentation
 http://uponto.link/
 
-## Namsespace
+## Namespace
 Prefix: "uponto" ;
 Namespace URI: "http://www.uponto.link/ontology/#"
 
