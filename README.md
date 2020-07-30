@@ -5,7 +5,6 @@ http://uponto.link/
 
 ## Namespace
 Prefix: "uponto"
-
 Namespace URI: "http://www.uponto.link/ontology/#"
 
 ## Version control
